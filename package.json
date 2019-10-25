@@ -1,9 +1,9 @@
 {
   "name": "hulan-intake-webapp",
   "version": "1.0.0",
-  "description": "Hulan front-end case",
+  "description": "Hulan Intake",
+  "author": "Hulan BV.",
   "private": true,
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node_modules/.bin/webpack-dev-server --mode development --open --hot",
@@ -13,8 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/HulanBV/hulan-intake-webapp.git"
   },
-  "author": "Stef van Wijchen",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/HulanBV/hulan-intake-webapp/issues"
   },
